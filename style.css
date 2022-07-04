@@ -1,0 +1,42 @@
+body{
+    font-family: 'Anton', sans-serif;
+
+    font-family: 'Bebas Neue', cursive;
+
+    font-family: 'Lobster', cursive;
+
+    font-family: 'The Nautigal', cursive;
+
+    font-family: 'Titan One', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: rgb(255, 0, 128);
+}
+section{
+    display: flex;
+}
+.run{
+    width: 50%;
+    padding-left: 5%;
+}
+.run img{
+    width: 90%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 200;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
